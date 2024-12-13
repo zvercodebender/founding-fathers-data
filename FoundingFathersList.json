@@ -1,17 +1,16 @@
 [
     {
-        "id": "AlexanderHamilton",
         "name": "Alexander Hamilton",
         "date": "January 11, 1755 - July 12, 1804",
         "quotes": "AlexanderHamilton.json",
-        "image" "images/AlexanderHamilton.png"
+        "image": "images/AlexanderHamilton.png",
+        "id": "0f58e915-19c8-41e5-8b40-0b8bf3c3f364"
     },
     {
-        "id": "JohnAdams",
+        "id": "30e1329d-8ba1-4d13-8e7b-8459e5d69fce",
         "name": "John Adams",
         "date": "October 30, 1735 - July 4, 1826",
         "quotes": "JohnAdams.json",
-        "image" "images/JohnAdams.png"
+        "image": "images/JohnAdams.png"
     }
-
 ]

@@ -1,402 +1,502 @@
 [
     {
-      "quote": "A feeble executive implies a feeble execution of the government. A feeble execution is but another phrase for a bad execution; and a government ill executed, whatever may be its theory, must be, in practice, a bad government.",
-      "source": "Alexander Hamilton, Federalist No. 70, 1788"
+        "quote": "A feeble executive implies a feeble execution of the government. A feeble execution is but another phrase for a bad execution; and a government ill executed, whatever may be its theory, must be, in practice, a bad government.",
+        "source": "Alexander Hamilton, Federalist No. 70, 1788",
+        "id": "ef8a1ba8-2f29-48ae-a4ef-360677cac38c"
     },
     {
-      "quote": "A fondness for power is implanted, in most men, and it is natural to abuse it, when acquired.",
-      "source": "Alexander Hamilton, The Farmer Refuted, February 23, 1775"
+        "quote": "A fondness for power is implanted, in most men, and it is natural to abuse it, when acquired.",
+        "source": "Alexander Hamilton, The Farmer Refuted, February 23, 1775",
+        "id": "2039a572-8de7-43cc-8409-4843f127dec7"
     },
     {
-      "quote": "A government ought to contain in itself every power requisite to the full accomplishment of the objects committed to its care, and to the complete execution of the trusts for which it is responsible, free from every other control but a regard to the public good and to the sense of the people.",
-      "source": "Alexander Hamilton, Federalist No. 31, January 1, 1788"
+        "quote": "A government ought to contain in itself every power requisite to the full accomplishment of the objects committed to its care, and to the complete execution of the trusts for which it is responsible, free from every other control but a regard to the public good and to the sense of the people.",
+        "source": "Alexander Hamilton, Federalist No. 31, January 1, 1788",
+        "id": "889d901b-e569-4af5-be80-7f1b9c6df35a"
     },
     {
-      "quote": "And it proves, in the last place, that liberty can have nothing to fear from the judiciary alone, but would have everything to fear from its union with either of the other departments. ",
-      "source": "Alexander Hamilton, Federalist No. 78, 1788"
+        "quote": "And it proves, in the last place, that liberty can have nothing to fear from the judiciary alone, but would have everything to fear from its union with either of the other departments. ",
+        "source": "Alexander Hamilton, Federalist No. 78, 1788",
+        "id": "191ace1e-165f-4eaa-a0e6-0c5dc116ddf8"
     },
     {
-      "quote": "As on the one hand, the necessity for borrowing in particular emergencies cannot be doubted, so on the other, it is equally evident that to be able to borrow upon good terms, it is essential that the credit of a nation should be well established. ",
-      "source": "Alexander Hamilton, Report on Public Credit, January 9, 1790"
+        "quote": "As on the one hand, the necessity for borrowing in particular emergencies cannot be doubted, so on the other, it is equally evident that to be able to borrow upon good terms, it is essential that the credit of a nation should be well established. ",
+        "source": "Alexander Hamilton, Report on Public Credit, January 9, 1790",
+        "id": "a686cb11-0437-465e-8a68-15a8925635f0"
     },
     {
-      "quote": "As riches increase and accumulate in few hands, as luxury prevails in society, virtue will be in a greater degree considered as only a graceful appendage of wealth, and the tendency of things will be to depart from the republican standard. This is the real disposition of human nature; it is what neither the honorable member nor myself can correct. It is a common misfortunate that awaits our State constitution, as well as all others.",
-      "source": "Alexander Hamilton, speech to the New York Ratifying Convention, June, 1788"
+        "quote": "As riches increase and accumulate in few hands, as luxury prevails in society, virtue will be in a greater degree considered as only a graceful appendage of wealth, and the tendency of things will be to depart from the republican standard. This is the real disposition of human nature; it is what neither the honorable member nor myself can correct. It is a common misfortunate that awaits our State constitution, as well as all others.",
+        "source": "Alexander Hamilton, speech to the New York Ratifying Convention, June, 1788",
+        "id": "3acb5bd5-daf0-4fc2-bf09-b57b8242866f"
     },
     {
-      "quote": "As to Taxes, they are evidently inseparable from Government. It is impossible without them to pay the debts of the nation, to protect it from foreign danger, or to secure individuals from lawless violence and rapine. ",
-      "source": "Alexander Hamilton, Address to the Electors of the State of New York, March, 1801"
+        "quote": "As to Taxes, they are evidently inseparable from Government. It is impossible without them to pay the debts of the nation, to protect it from foreign danger, or to secure individuals from lawless violence and rapine. ",
+        "source": "Alexander Hamilton, Address to the Electors of the State of New York, March, 1801",
+        "id": "259d920c-f71b-4bf5-8435-3a4ceda3169f"
     },
     {
-      "quote": "But as the plan of the convention aims only at a partial union or consolidation, the State governments would clearly retain all the rights of sovereignty which they before had, and which were not, by that act, EXCLUSIVELY delegated to the United States. ",
-      "source": "Alexander Hamilton, Federalist No. 32, January 3, 1788"
+        "quote": "But as the plan of the convention aims only at a partial union or consolidation, the State governments would clearly retain all the rights of sovereignty which they before had, and which were not, by that act, EXCLUSIVELY delegated to the United States. ",
+        "source": "Alexander Hamilton, Federalist No. 32, January 3, 1788",
+        "id": "547832d0-3ef6-4651-8fbe-e4e05871b687"
     },
     {
-      "quote": "Constitutions of civil government are not to be framed upon a calculation of existing exigencies, but upon a combination of these with the probable exigencies of ages, according to the natural and tried course of human affairs. Nothing, therefore, can be more fallacious than to infer the extent of any power, proper to be lodged in the national government, from an estimate of its immediate necessities. ",
-      "source": "Alexander Hamilton, Federalist No. 34, January 4, 1788"
+        "quote": "Constitutions of civil government are not to be framed upon a calculation of existing exigencies, but upon a combination of these with the probable exigencies of ages, according to the natural and tried course of human affairs. Nothing, therefore, can be more fallacious than to infer the extent of any power, proper to be lodged in the national government, from an estimate of its immediate necessities. ",
+        "source": "Alexander Hamilton, Federalist No. 34, January 4, 1788",
+        "id": "295bda5b-e471-4960-b499-695b52ab925d"
     },
     {
-      "quote": "Energy in the executive is a leading character in the definition of good government. It is essential to the protection of the community against foreign attacks; it is not less essential to the steady administration of the laws; to the protection of property against those irregular and high-handed combinations which sometimes interrupt the ordinary course of justice; to the security of liberty against the enterprises and assaults of ambition, of faction, and of anarchy.",
-      "source": "Alexander Hamilton, Federalist No. 69, March 14, 1788"
+        "quote": "Energy in the executive is a leading character in the definition of good government. It is essential to the protection of the community against foreign attacks; it is not less essential to the steady administration of the laws; to the protection of property against those irregular and high-handed combinations which sometimes interrupt the ordinary course of justice; to the security of liberty against the enterprises and assaults of ambition, of faction, and of anarchy.",
+        "source": "Alexander Hamilton, Federalist No. 69, March 14, 1788",
+        "id": "c376efb7-faab-4d4e-b609-5d627ef6d4ce"
     },
     {
-      "quote": "Foreign influence is truly the Grecian horse to a republic. We cannot be too careful to exclude its influence.",
-      "source": "Alexander Hamilton, Pacificus, No. 6, July 17, 1793"
+        "quote": "Foreign influence is truly the Grecian horse to a republic. We cannot be too careful to exclude its influence.",
+        "source": "Alexander Hamilton, Pacificus, No. 6, July 17, 1793",
+        "id": "b917c0a9-bafc-4f8d-9de4-185591374107"
     },
     {
-      "quote": "Good constitutions are formed upon a comparison of the liberty of the individual with the strength of government: If the tone of either be too high, the other will be weakened too much. It is the happiest possible mode of conciliating these objects, to institute one branch peculiarly endowed with sensibility, another with knowledge and firmness. Through the opposition and mutual control of these bodies, the government will reach, in its regular operations, the perfect balance between liberty and power. ",
-      "source": "Alexander Hamilton, speech to the New York Ratifying Convention, June 25, 1788"
+        "quote": "Good constitutions are formed upon a comparison of the liberty of the individual with the strength of government: If the tone of either be too high, the other will be weakened too much. It is the happiest possible mode of conciliating these objects, to institute one branch peculiarly endowed with sensibility, another with knowledge and firmness. Through the opposition and mutual control of these bodies, the government will reach, in its regular operations, the perfect balance between liberty and power. ",
+        "source": "Alexander Hamilton, speech to the New York Ratifying Convention, June 25, 1788",
+        "id": "df614d7c-1e8d-4182-858b-82caa19d1487"
     },
     {
-      "quote": "Government implies the power of making laws. It is essential to the idea of a law, that it be attended with a sanction; or, in other words, a penalty or punishment for disobedience.",
-      "source": "Alexander Hamilton, Federalist No. 15, 1787"
+        "quote": "Government implies the power of making laws. It is essential to the idea of a law, that it be attended with a sanction; or, in other words, a penalty or punishment for disobedience.",
+        "source": "Alexander Hamilton, Federalist No. 15, 1787",
+        "id": "b1db601c-8ed8-40e9-8984-d008efa8c000"
     },
     {
-      "quote": "Here sir, the people govern.",
-      "source": "Alexander Hamilton, speech to the New York Ratifying Convention, June 17, 1788"
+        "quote": "Here sir, the people govern.",
+        "source": "Alexander Hamilton, speech to the New York Ratifying Convention, June 17, 1788",
+        "id": "48600cf8-b249-4e12-862b-2aa6746ff301"
     },
     {
-      "quote": "I am persuaded that a firm union is as necessary to perpetuate our liberties as it is to make us respectable; and experience will probably prove that the National Government will be as natural a guardian of our freedom as the State Legislatures. ",
-      "source": "Alexander Hamilton, speech to the New York Ratifying Convention, June, 1788"
+        "quote": "I am persuaded that a firm union is as necessary to perpetuate our liberties as it is to make us respectable; and experience will probably prove that the National Government will be as natural a guardian of our freedom as the State Legislatures. ",
+        "source": "Alexander Hamilton, speech to the New York Ratifying Convention, June, 1788",
+        "id": "d89a2ff6-ba3c-4151-9462-04cdc12037db"
     },
     {
-      "quote": "I go further, and affirm that bills of rights, in the sense and to the extent in which they are contended for, are not only unnecessary in the proposed Constitution, but would even be dangerous. They would contain various exceptions to powers not granted; and on this very account, would afford a colorable pretext to claim more than were granted. For why declare that things shall not be done which there is no power to do? ",
-      "source": "Alexander Hamilton, Federalist No. 84, 1788"
+        "quote": "I go further, and affirm that bills of rights, in the sense and to the extent in which they are contended for, are not only unnecessary in the proposed Constitution, but would even be dangerous. They would contain various exceptions to powers not granted; and on this very account, would afford a colorable pretext to claim more than were granted. For why declare that things shall not be done which there is no power to do? ",
+        "source": "Alexander Hamilton, Federalist No. 84, 1788",
+        "id": "6ae6dc86-f603-4370-9761-34a249e7f71c"
     },
     {
-      "quote": "I never expect to see a perfect work from imperfect man.",
-      "source": "Alexander Hamilton, Federalist No. 85, 1788"
+        "quote": "I never expect to see a perfect work from imperfect man.",
+        "source": "Alexander Hamilton, Federalist No. 85, 1788",
+        "id": "66ae50f1-bf2a-4ea5-baa1-eb9d779bbe59"
     },
     {
-      "quote": "I trust that the proposed Constitution afford a genuine specimen of representative government and republican government; and that it will answer, in an eminent degree, all the beneficial purposes of society. ",
-      "source": "Alexander Hamilton, speech to the New York Ratifying Convention, June, 1788"
+        "quote": "I trust that the proposed Constitution afford a genuine specimen of representative government and republican government; and that it will answer, in an eminent degree, all the beneficial purposes of society. ",
+        "source": "Alexander Hamilton, speech to the New York Ratifying Convention, June, 1788",
+        "id": "da4d4fe5-b708-40e7-a31b-ec398c6aafed"
     },
     {
-      "quote": "I will venture to assert that no combination of designing men under heaven will be capable of making a government unpopular which is in its principles a wise and good one, and vigorous in its operations.",
-      "source": "Alexander Hamilton, speech to the New York Ratifying Convention, June, 1788"
+        "quote": "I will venture to assert that no combination of designing men under heaven will be capable of making a government unpopular which is in its principles a wise and good one, and vigorous in its operations.",
+        "source": "Alexander Hamilton, speech to the New York Ratifying Convention, June, 1788",
+        "id": "93c84dcd-186b-4a3f-831f-2027a62b0918"
     },
     {
-      "quote": "If a well-regulated militia be the most natural defense of a free country, it ought certainly to be under the regulation and at the disposal of that body which is constituted the guardian of the national security. If standing armies are dangerous to liberty, an efficacious power over the militia in the same body ought, as far as possible, to take away the inducement and the pretext to such unfriendly institutions. If the federal government can command the aid of the militia in those emergencies which call for the military arm in support of the civil magistrate, it can the better dispense with the employment of a different kind of force. If it cannot avail itself of the former, it will be obliged to recur to the latter. To render an army unnecessary will be a more certain method of preventing its existence than a thousand prohibitions upon paper.",
-      "source": "Alexander Hamilton, Federalist No. 29, January 10, 1788"
+        "quote": "If a well-regulated militia be the most natural defense of a free country, it ought certainly to be under the regulation and at the disposal of that body which is constituted the guardian of the national security. If standing armies are dangerous to liberty, an efficacious power over the militia in the same body ought, as far as possible, to take away the inducement and the pretext to such unfriendly institutions. If the federal government can command the aid of the militia in those emergencies which call for the military arm in support of the civil magistrate, it can the better dispense with the employment of a different kind of force. If it cannot avail itself of the former, it will be obliged to recur to the latter. To render an army unnecessary will be a more certain method of preventing its existence than a thousand prohibitions upon paper.",
+        "source": "Alexander Hamilton, Federalist No. 29, January 10, 1788",
+        "id": "49c592ac-f838-40bc-8665-3185007d301b"
     },
     {
-      "quote": "If duties are too high, they lessen the consumption; the collection is eluded; and the product to the treasury is not so great as when they are confined within proper and moderate bounds. This forms a complete barrier against any material oppression of the citizens by taxes of this class, and is itself a natural limitation of the power of imposing them.",
-      "source": "Alexander Hamilton, Federalist No. 21, 1787"
+        "quote": "If duties are too high, they lessen the consumption; the collection is eluded; and the product to the treasury is not so great as when they are confined within proper and moderate bounds. This forms a complete barrier against any material oppression of the citizens by taxes of this class, and is itself a natural limitation of the power of imposing them.",
+        "source": "Alexander Hamilton, Federalist No. 21, 1787",
+        "id": "975481d6-264c-485c-8476-af3a22648cca"
     },
     {
-      "quote": "If it be asked, What is the most sacred duty and the greatest source of our security in a Republic? The answer would be, An inviolable respect for the Constitution and Laws � the first growing out of the last.... A sacred respect for the constitutional law is the vital principle, the sustaining energy of a free government.",
-      "source": "Alexander Hamilton, Essay in the American Daily Advertiser, Aug 28, 1794"
+        "quote": "If it be asked, What is the most sacred duty and the greatest source of our security in a Republic? The answer would be, An inviolable respect for the Constitution and Laws \ufffd the first growing out of the last.... A sacred respect for the constitutional law is the vital principle, the sustaining energy of a free government.",
+        "source": "Alexander Hamilton, Essay in the American Daily Advertiser, Aug 28, 1794",
+        "id": "e527f779-3742-4b45-aa58-18a5292fde10"
     },
     {
-      "quote": "If mankind were to resolve to agree in no institution of government, until every part of it had been adjusted to the most exact standard of perfection, society would soon become a general scene of anarchy, and the world a desert.",
-      "source": "Alexander Hamilton, Federalist No. 65, March 7, 1788"
+        "quote": "If mankind were to resolve to agree in no institution of government, until every part of it had been adjusted to the most exact standard of perfection, society would soon become a general scene of anarchy, and the world a desert.",
+        "source": "Alexander Hamilton, Federalist No. 65, March 7, 1788",
+        "id": "d6a85560-8cb1-41a8-9719-85452e1f4631"
     },
     {
-      "quote": "If the federal government should overpass the just bounds of its authority and make a tyrannical use of its powers, the people, whose creature it is, must appeal to the standard they have formed, and take such measures to redress the injury done to the Constitution as the exigency may suggest and prudence justify.",
-      "source": "Alexander Hamilton, Federalist No. 33, January 3, 1788"
+        "quote": "If the federal government should overpass the just bounds of its authority and make a tyrannical use of its powers, the people, whose creature it is, must appeal to the standard they have formed, and take such measures to redress the injury done to the Constitution as the exigency may suggest and prudence justify.",
+        "source": "Alexander Hamilton, Federalist No. 33, January 3, 1788",
+        "id": "ae93337e-5274-4780-b564-4d7b7459f53b"
     },
     {
-      "quote": "In all very numerous assemblies, of whatever character composed, passion never fails to wrest the sceptre from reason. ... Had every Athenian citizen been a Socrates, every Athenian assembly would still have been a mob.",
-      "source": "Alexander Hamilton and Alexander Hamilton, Federalist No. 55, February 15, 1788"
+        "quote": "In all very numerous assemblies, of whatever character composed, passion never fails to wrest the sceptre from reason. ... Had every Athenian citizen been a Socrates, every Athenian assembly would still have been a mob.",
+        "source": "Alexander Hamilton and Alexander Hamilton, Federalist No. 55, February 15, 1788",
+        "id": "2e635f64-30db-42f1-8659-fe799f3dfcc3"
     },
     {
-      "quote": "In disquisitions of every kind there are certain primary truths, or first principles, upon which all subsequent reasoning must depend.",
-      "source": "Alexander Hamilton, Federalist No. 31, January 1, 1788"
+        "quote": "In disquisitions of every kind there are certain primary truths, or first principles, upon which all subsequent reasoning must depend.",
+        "source": "Alexander Hamilton, Federalist No. 31, January 1, 1788",
+        "id": "d8412876-baff-4199-a910-886fd833ef72"
     },
     {
-      "quote": "In politics, as in religion, it is equally absurd to aim at making proselytes by fire and sword. Heresies in either can rarely be cured by persecution.",
-      "source": "Alexander Hamilton, Federalist No. 1, October 27, 1787"
+        "quote": "In politics, as in religion, it is equally absurd to aim at making proselytes by fire and sword. Heresies in either can rarely be cured by persecution.",
+        "source": "Alexander Hamilton, Federalist No. 1, October 27, 1787",
+        "id": "bda5f1b5-f1ad-4ad4-bf71-9e5926928917"
     },
     {
-      "quote": "In the first place, there is not a syllable in the plan under consideration which directly empowers the national courts to construe the laws according to the spirit of the Constitution, or which gives them any greater latitude in this respect than may be claimed by the courts of every State.",
-      "source": "Alexander Hamilton, Federalist No. 81, 1788"
+        "quote": "In the first place, there is not a syllable in the plan under consideration which directly empowers the national courts to construe the laws according to the spirit of the Constitution, or which gives them any greater latitude in this respect than may be claimed by the courts of every State.",
+        "source": "Alexander Hamilton, Federalist No. 81, 1788",
+        "id": "c126de6f-ae57-4aba-af70-110d3b26cc59"
     },
     {
-      "quote": "Industry is increased, commodities are multiplied, agriculture and manufacturers flourish: and herein consists the true wealth and prosperity of a state.",
-      "source": "Alexander Hamilton, Report on a National Bank, December 13, 1790"
+        "quote": "Industry is increased, commodities are multiplied, agriculture and manufacturers flourish: and herein consists the true wealth and prosperity of a state.",
+        "source": "Alexander Hamilton, Report on a National Bank, December 13, 1790",
+        "id": "b29ac546-87a1-40a8-aca8-ac21b4a502f5"
     },
     {
-      "quote": "It is a just observation that the people commonly intend the Public Good. This often applies to their very errors. But their good sense would despise the adulator who should pretend they always reason right about the means of promoting it.",
-      "source": "Alexander Hamilton, Federalist No. 71, March 18, 1788"
+        "quote": "It is a just observation that the people commonly intend the Public Good. This often applies to their very errors. But their good sense would despise the adulator who should pretend they always reason right about the means of promoting it.",
+        "source": "Alexander Hamilton, Federalist No. 71, March 18, 1788",
+        "id": "39937ce8-7f99-446b-9ed8-c56e1d60c9fe"
     },
     {
-      "quote": "It is a singular advantage of taxes on articles of consumption that they contain in their own nature a security against excess. They prescribe their own limit, which cannot be exceeded without defeating the end purposed � that is, an extension of the revenue.",
-      "source": "Alexander Hamilton, Federalist No. 21"
+        "quote": "It is a singular advantage of taxes on articles of consumption that they contain in their own nature a security against excess. They prescribe their own limit, which cannot be exceeded without defeating the end purposed \ufffd that is, an extension of the revenue.",
+        "source": "Alexander Hamilton, Federalist No. 21",
+        "id": "621afa13-095a-4875-95fb-942d68bf8e81"
     },
     {
-      "quote": "It is an unquestionable truth, that the body of the people in every country desire sincerely its prosperity. But it is equally unquestionable that they do not possess the discernment and stability necessary for systematic government. To deny that they are frequently led into the grossest of errors, by misinformation and passion, would be a flattery which their own good sense must despise.",
-      "source": "Alexander Hamilton, speech to the Ratifying Convention of New York, June, 1788"
+        "quote": "It is an unquestionable truth, that the body of the people in every country desire sincerely its prosperity. But it is equally unquestionable that they do not possess the discernment and stability necessary for systematic government. To deny that they are frequently led into the grossest of errors, by misinformation and passion, would be a flattery which their own good sense must despise.",
+        "source": "Alexander Hamilton, speech to the Ratifying Convention of New York, June, 1788",
+        "id": "1805a2c2-98b1-407f-ad0e-eab0730ad3f3"
     },
     {
-      "quote": "It is evident from the state of the country, from the habits of the people, from the experience we have had on the point itself, that it is impracticable to raise any very considerable sums by direct taxation.",
-      "source": "Alexander Hamilton, Federalist No. 12, November 27, 1787"
+        "quote": "It is evident from the state of the country, from the habits of the people, from the experience we have had on the point itself, that it is impracticable to raise any very considerable sums by direct taxation.",
+        "source": "Alexander Hamilton, Federalist No. 12, November 27, 1787",
+        "id": "b0bb1b24-29eb-4904-822c-b9e660fb2666"
     },
     {
-      "quote": "It is one thing to be subordinate to the laws, and another [for the Executive] to be dependent on the legislative body. The first comports with, the last violates, the fundamental principles of good government; and, whatever may be the forms of the Constitution, unites all power in the same hands.",
-      "source": "Alexander Hamilton, Federalist No. 71, March 18, 1788"
+        "quote": "It is one thing to be subordinate to the laws, and another [for the Executive] to be dependent on the legislative body. The first comports with, the last violates, the fundamental principles of good government; and, whatever may be the forms of the Constitution, unites all power in the same hands.",
+        "source": "Alexander Hamilton, Federalist No. 71, March 18, 1788",
+        "id": "e86ac379-ceb5-44e1-8f8c-8703caed6aa9"
     },
     {
-      "quote": "It seems to have been reserved to the people of this country, by their conduct and example, to decide the important question, whether societies of men are really capable or not of establishing good government from reflection and choice, or whether they are forever destined to depend for their political constitutions on accident and force. If there be any truth in the remark, the crisis at which we are arrived may with propriety be regarded as the era in which that decision is to be made; and a wrong election of the part we shall act may, in this view, deserve to be considered as the general misfortune of mankind.",
-      "source": "Alexander Hamilton, Federalist No. 1, October 27, 1787"
+        "quote": "It seems to have been reserved to the people of this country, by their conduct and example, to decide the important question, whether societies of men are really capable or not of establishing good government from reflection and choice, or whether they are forever destined to depend for their political constitutions on accident and force. If there be any truth in the remark, the crisis at which we are arrived may with propriety be regarded as the era in which that decision is to be made; and a wrong election of the part we shall act may, in this view, deserve to be considered as the general misfortune of mankind.",
+        "source": "Alexander Hamilton, Federalist No. 1, October 27, 1787",
+        "id": "7d9e0271-d04b-43be-835b-21b340abf014"
     },
     {
-      "quote": "It was remarked yesterday that a numerous representation was necessary to obtain the confidence of the people. This is not generally true. The confidence of the people will easily be gained by a good administration. This is the true touchstone.",
-      "source": "Alexander Hamilton, speech to the New York Ratifying Convention, June, 1788"
+        "quote": "It was remarked yesterday that a numerous representation was necessary to obtain the confidence of the people. This is not generally true. The confidence of the people will easily be gained by a good administration. This is the true touchstone.",
+        "source": "Alexander Hamilton, speech to the New York Ratifying Convention, June, 1788",
+        "id": "699ed36f-2961-49ee-9a9e-3d119144d2d9"
     },
     {
-      "quote": "It will be of little avail to the people, that the laws are made by men of their own choice, if the laws be so voluminous that they cannot be read, or so incoherent that they cannot be understood; if they be repealed or revised before they are promulgated, or undergo such incessant changes that no man, who knows what the law is to-day, can guess what it will be to-morrow.",
-      "source": "Alexander Hamilton and Alexander Hamilton, Federalist No. 62, 1788"
+        "quote": "It will be of little avail to the people, that the laws are made by men of their own choice, if the laws be so voluminous that they cannot be read, or so incoherent that they cannot be understood; if they be repealed or revised before they are promulgated, or undergo such incessant changes that no man, who knows what the law is to-day, can guess what it will be to-morrow.",
+        "source": "Alexander Hamilton and Alexander Hamilton, Federalist No. 62, 1788",
+        "id": "f81420c0-d487-4e2b-a49c-1bfff92ac5b4"
     },
     {
-      "quote": "It will not be too strong to say, that there will be a constant probability of seeing the station [of President] filled by characters pre-eminent for ability and virtue.",
-      "source": "Alexander Hamilton, Federalist No. 68, March 14, 1788"
+        "quote": "It will not be too strong to say, that there will be a constant probability of seeing the station [of President] filled by characters pre-eminent for ability and virtue.",
+        "source": "Alexander Hamilton, Federalist No. 68, March 14, 1788",
+        "id": "a2a55274-71c3-4403-95df-deb3dfbde08c"
     },
     {
-      "quote": "Law is defined to be a rule of action; but how can that be a rule, which is little known, and less fixed?",
-      "source": "Alexander Hamilton and Alexander Hamilton, Federalist No. 62, 1788"
+        "quote": "Law is defined to be a rule of action; but how can that be a rule, which is little known, and less fixed?",
+        "source": "Alexander Hamilton and Alexander Hamilton, Federalist No. 62, 1788",
+        "id": "46c2e458-e3c4-4b8f-8cf6-13f3496ed61d"
     },
     {
-      "quote": "Let the thirteen States, bound together in a strict and indissoluble Union, concur in erecting one great American system, superior to the control of all transatlantic force or influence, and able to dictate the terms of the connection between the old and the new world!",
-      "source": "Alexander Hamilton, Federalist No. 11, 1787"
+        "quote": "Let the thirteen States, bound together in a strict and indissoluble Union, concur in erecting one great American system, superior to the control of all transatlantic force or influence, and able to dictate the terms of the connection between the old and the new world!",
+        "source": "Alexander Hamilton, Federalist No. 11, 1787",
+        "id": "bdfb9101-52f4-4cac-bda2-bb7156b40203"
     },
     {
-      "quote": "Let us recollect that peace or war will not always be left to our option; that however moderate or unambitious we may be, we cannot count upon the moderation, or hope to extinguish the ambition of others.",
-      "source": "Alexander Hamilton, Federalist No. 34, January 4, 1788"
+        "quote": "Let us recollect that peace or war will not always be left to our option; that however moderate or unambitious we may be, we cannot count upon the moderation, or hope to extinguish the ambition of others.",
+        "source": "Alexander Hamilton, Federalist No. 34, January 4, 1788",
+        "id": "47e32fb8-b5a4-4fb6-af2c-604c813b3756"
     },
     {
-      "quote": "Measures which serve to abridge the free competition of foreign Articles, have a tendency to occasion an enhancement of prices.",
-      "source": "Alexander Hamilton, Report on Manufactures, December 5, 1791"
+        "quote": "Measures which serve to abridge the free competition of foreign Articles, have a tendency to occasion an enhancement of prices.",
+        "source": "Alexander Hamilton, Report on Manufactures, December 5, 1791",
+        "id": "6d58ddd2-0084-456c-8f7a-e65e53712ff2"
     },
     {
-      "quote": "No government, any more than an individual, will long be respected without being truly respectable; nor be truly respectable, without possessing a certain portion of order and stability.",
-      "source": "Alexander Hamilton and Alexander Hamilton, Federalist No. 62, 1788"
+        "quote": "No government, any more than an individual, will long be respected without being truly respectable; nor be truly respectable, without possessing a certain portion of order and stability.",
+        "source": "Alexander Hamilton and Alexander Hamilton, Federalist No. 62, 1788",
+        "id": "2d119e30-65d7-4551-bb68-876ca1229468"
     },
     {
-      "quote": "No man in his senses can hesitate in choosing to be free, rather than a slave.",
-      "source": "Alexander Hamilton, A Full Vindication of the Measures of the Congress, etc., December 15, 1774"
+        "quote": "No man in his senses can hesitate in choosing to be free, rather than a slave.",
+        "source": "Alexander Hamilton, A Full Vindication of the Measures of the Congress, etc., December 15, 1774",
+        "id": "fe405feb-f33a-425a-9363-7c13f2b44bb3"
     },
     {
-      "quote": "Of all the cares or concerns of government, the direction of war most peculiarly demands those qualities which distinguish the exercise of power by a single hand. The direction of war implies the direction of the common strength; and the power of directing and employing the common strength, forms a usual and essential part in the definition of the executive authority.",
-      "source": "Alexander Hamilton, Federalist No. 74, March 25, 1788"
+        "quote": "Of all the cares or concerns of government, the direction of war most peculiarly demands those qualities which distinguish the exercise of power by a single hand. The direction of war implies the direction of the common strength; and the power of directing and employing the common strength, forms a usual and essential part in the definition of the executive authority.",
+        "source": "Alexander Hamilton, Federalist No. 74, March 25, 1788",
+        "id": "13dbebd9-90ac-47f9-a5ae-36c051697309"
     },
     {
-      "quote": "Of those men who have overturned the liberties of republics, the greatest number have begun their career by paying an obsequious court to the people, commencing demagogues and ending tyrants.",
-      "source": "Alexander Hamilton, Federalist No. 1, October 27, 1787"
+        "quote": "Of those men who have overturned the liberties of republics, the greatest number have begun their career by paying an obsequious court to the people, commencing demagogues and ending tyrants.",
+        "source": "Alexander Hamilton, Federalist No. 1, October 27, 1787",
+        "id": "297322dd-52ee-42f5-8ecb-55131547a082"
     },
     {
-      "quote": "Responsibility, in order to be reasonable, must be limited to objects within the power of the responsible party, and in order to be effectual, must relate to operations of that power, of which a ready and proper judgment can be formed by the constituents.",
-      "source": "Alexander Hamilton and Alexander Hamilton, Federalist No. 63, 1788"
+        "quote": "Responsibility, in order to be reasonable, must be limited to objects within the power of the responsible party, and in order to be effectual, must relate to operations of that power, of which a ready and proper judgment can be formed by the constituents.",
+        "source": "Alexander Hamilton and Alexander Hamilton, Federalist No. 63, 1788",
+        "id": "383ffc42-7022-4427-8fb0-5e3bee810c5d"
     },
     {
-      "quote": "States, like individuals, who observe their engagements, are respected and trusted: while the reverse is the fate of those who pursue an opposite conduct.",
-      "source": "Alexander Hamilton, Report on Public Credit, January 9, 1790"
+        "quote": "States, like individuals, who observe their engagements, are respected and trusted: while the reverse is the fate of those who pursue an opposite conduct.",
+        "source": "Alexander Hamilton, Report on Public Credit, January 9, 1790",
+        "id": "16af274c-f853-4ee6-9330-80d17e446a02"
     },
     {
-      "quote": "The aim of every political constitution is, or ought to be, first to obtain for rulers men who possess most wisdom to discern, and most virtue to pursue, the common good of the society; and in the next place, to take the most effectual precautions for keeping them virtuous whilst they continue to hold their public trust.",
-      "source": "Alexander Hamilton and Alexander Hamilton, Federalist No. 57, February 19, 1788"
+        "quote": "The aim of every political constitution is, or ought to be, first to obtain for rulers men who possess most wisdom to discern, and most virtue to pursue, the common good of the society; and in the next place, to take the most effectual precautions for keeping them virtuous whilst they continue to hold their public trust.",
+        "source": "Alexander Hamilton and Alexander Hamilton, Federalist No. 57, February 19, 1788",
+        "id": "a3fa6c9e-2e0e-45ac-bd30-f6bd57f8f43b"
     },
     {
-      "quote": "The circumstances that endanger the safety of nations are infinite, and for this reason no constitutional shackles can wisely be imposed on the power to which the care of it is committed.",
-      "source": "Alexander Hamilton, Federalist No. 23, December 17, 1787"
+        "quote": "The circumstances that endanger the safety of nations are infinite, and for this reason no constitutional shackles can wisely be imposed on the power to which the care of it is committed.",
+        "source": "Alexander Hamilton, Federalist No. 23, December 17, 1787",
+        "id": "eabc712f-7707-46ab-8c5e-bb60f7d64149"
     },
     {
-      "quote": "The citizens of America have too much discernment to be argued into anarchy. and I am much mistaken if experience has not wrought a deep and solemn conviction in the public mind that greater energy of government is essential to the welfare and prosperity of the community.",
-      "source": "Alexander Hamilton, Federalist No. 26"
+        "quote": "The citizens of America have too much discernment to be argued into anarchy. and I am much mistaken if experience has not wrought a deep and solemn conviction in the public mind that greater energy of government is essential to the welfare and prosperity of the community.",
+        "source": "Alexander Hamilton, Federalist No. 26",
+        "id": "0a644ea2-6aa3-42be-b5a4-95456a4f3521"
     },
     {
-      "quote": "The fabric of American empire ought to rest on the solid basis of THE CONSENT OF THE PEOPLE. The streams of national power ought to flow from that pure, original fountain of all legitimate authority.",
-      "source": "Alexander Hamilton, Federalist No. 22, December 14, 1787"
+        "quote": "The fabric of American empire ought to rest on the solid basis of THE CONSENT OF THE PEOPLE. The streams of national power ought to flow from that pure, original fountain of all legitimate authority.",
+        "source": "Alexander Hamilton, Federalist No. 22, December 14, 1787",
+        "id": "be545343-4dae-4a57-be9e-05e614351e20"
     },
     {
-      "quote": "The fundamental source of all your errors, sophisms and false reasonings is a total ignorance of the natural rights of mankind. Were you once to become acquainted with these, you could never entertain a thought, that all men are not, by nature, entitled to a parity of privileges. You would be convinced, that natural liberty is a gift of the beneficent Creator to the whole human race, and that civil liberty is founded in that; and cannot be wrested from any people, without the most manifest violation of justice.",
-      "source": "Alexander Hamilton, The Farmer Refuted, February 23, 1775"
+        "quote": "The fundamental source of all your errors, sophisms and false reasonings is a total ignorance of the natural rights of mankind. Were you once to become acquainted with these, you could never entertain a thought, that all men are not, by nature, entitled to a parity of privileges. You would be convinced, that natural liberty is a gift of the beneficent Creator to the whole human race, and that civil liberty is founded in that; and cannot be wrested from any people, without the most manifest violation of justice.",
+        "source": "Alexander Hamilton, The Farmer Refuted, February 23, 1775",
+        "id": "9cf4e605-70ce-44e8-af8e-36dfcdc06edd"
     },
     {
-      "quote": "The great desiderata are a free representation and mutual checks. When these are obtained, all our apprehensions of the extent of powers are unjust and imaginary.",
-      "source": "Alexander Hamilton, speech to the New York Ratifying Convention, June, 1788"
+        "quote": "The great desiderata are a free representation and mutual checks. When these are obtained, all our apprehensions of the extent of powers are unjust and imaginary.",
+        "source": "Alexander Hamilton, speech to the New York Ratifying Convention, June, 1788",
+        "id": "ceb5009e-c386-4239-8da9-a13f77a5a790"
     },
     {
-      "quote": "The great leading objects of the federal government, in which revenue is concerned, are to maintain domestic peace, and provide for the common defense. In these are comprehended the regulation of commerce that is, the whole system of foreign intercourse; the support of armies and navies, and of the civil administration.",
-      "source": "Alexander Hamilton, Remarks in the New York Ratifying Convention, June, 1788"
+        "quote": "The great leading objects of the federal government, in which revenue is concerned, are to maintain domestic peace, and provide for the common defense. In these are comprehended the regulation of commerce that is, the whole system of foreign intercourse; the support of armies and navies, and of the civil administration.",
+        "source": "Alexander Hamilton, Remarks in the New York Ratifying Convention, June, 1788",
+        "id": "0df608b7-2134-4b31-940a-c71a1fce9457"
     },
     {
-      "quote": "The history of ancient and modern republics had taught them that many of the evils which those republics suffered arose from the want of a certain balance, and that mutual control indispensable to a wise administration. They were convinced that popular assemblies are frequently misguided by ignorance, by sudden impulses, and the intrigues of ambitious men; and that some firm barrier against these operations was necessary. They, therefore, instituted your Senate.",
-      "source": "Alexander Hamilton, speech to the New York Ratifying Convention, June, 1788"
+        "quote": "The history of ancient and modern republics had taught them that many of the evils which those republics suffered arose from the want of a certain balance, and that mutual control indispensable to a wise administration. They were convinced that popular assemblies are frequently misguided by ignorance, by sudden impulses, and the intrigues of ambitious men; and that some firm barrier against these operations was necessary. They, therefore, instituted your Senate.",
+        "source": "Alexander Hamilton, speech to the New York Ratifying Convention, June, 1788",
+        "id": "9e7f760f-6bb0-4300-9d29-b33518fc5f5f"
     },
     {
-      "quote": "The idea of restraining the legislative authority in the means of providing for the national defense is one of those refinements which owe their origin to a zeal for liberty more ardent than enlightened.",
-      "source": "Alexander Hamilton, Federalist No. 26"
+        "quote": "The idea of restraining the legislative authority in the means of providing for the national defense is one of those refinements which owe their origin to a zeal for liberty more ardent than enlightened.",
+        "source": "Alexander Hamilton, Federalist No. 26",
+        "id": "13f2fa62-8d64-4a44-98c9-98c74352b542"
     },
     {
-      "quote": "The ingredients which constitute energy in the Executive are, first, unity; secondly, duration; thirdly, an adequate provision for its support; fourthly, competent powers. ... The ingredients which constitute safety in the republican sense are, first, a due dependence on the people, secondly, a due responsibility.",
-      "source": "Alexander Hamilton, Federalist No. 70, March 14, 1788"
+        "quote": "The ingredients which constitute energy in the Executive are, first, unity; secondly, duration; thirdly, an adequate provision for its support; fourthly, competent powers. ... The ingredients which constitute safety in the republican sense are, first, a due dependence on the people, secondly, a due responsibility.",
+        "source": "Alexander Hamilton, Federalist No. 70, March 14, 1788",
+        "id": "279c1b36-ba3a-4779-9d2b-3227bd8b316d"
     },
     {
-      "quote": "The injury which may possibly be done by defeating a few good laws, will be amply compensated by the advantage of preventing a number of bad ones.",
-      "source": "Alexander Hamilton, Federalist No. 73, on the Veto Power, March 21, 1788"
+        "quote": "The injury which may possibly be done by defeating a few good laws, will be amply compensated by the advantage of preventing a number of bad ones.",
+        "source": "Alexander Hamilton, Federalist No. 73, on the Veto Power, March 21, 1788",
+        "id": "2ed1e4e5-a378-4ea4-9d99-bcabdedb04e9"
     },
     {
-      "quote": "The instrument by which it [government] must act are either the AUTHORITY of the laws or FORCE. If the first be destroyed, the last must be substituted; and where this becomes the ordinary instrument of government there is an end to liberty!",
-      "source": "Alexander Hamilton, Tully, No. 3, August 28, 1794"
+        "quote": "The instrument by which it [government] must act are either the AUTHORITY of the laws or FORCE. If the first be destroyed, the last must be substituted; and where this becomes the ordinary instrument of government there is an end to liberty!",
+        "source": "Alexander Hamilton, Tully, No. 3, August 28, 1794",
+        "id": "0a64864d-fc62-4479-b82f-0e7a4f7b0f75"
     },
     {
-      "quote": "The Judiciary...has no influence over either the sword or the purse; no direction either of the strength or of the wealth of the society, and can take no active resolution whatever. It may truly be said to have neither force nor will.",
-      "source": "Alexander Hamilton, Federalist No. 78, 1788"
+        "quote": "The Judiciary...has no influence over either the sword or the purse; no direction either of the strength or of the wealth of the society, and can take no active resolution whatever. It may truly be said to have neither force nor will.",
+        "source": "Alexander Hamilton, Federalist No. 78, 1788",
+        "id": "cf5ba1eb-36bb-41b5-9139-359a4234b19e"
     },
     {
-      "quote": "The local interest of a State ought in every case to give way to the interests of the Union. For when a sacrifice of one or the other is necessary, the former becomes only an apparent, partial interest, and should yield, on the principle that the smaller good ought never to oppose the greater good.",
-      "source": "Alexander Hamilton, speech to the New York Ratifying Convention, June, 1788"
+        "quote": "The local interest of a State ought in every case to give way to the interests of the Union. For when a sacrifice of one or the other is necessary, the former becomes only an apparent, partial interest, and should yield, on the principle that the smaller good ought never to oppose the greater good.",
+        "source": "Alexander Hamilton, speech to the New York Ratifying Convention, June, 1788",
+        "id": "8d689fa0-f090-49b7-bfa2-4725229718c6"
     },
     {
-      "quote": "The natural cure for an ill-administration, in a popular or representative constitution, is a change of men.",
-      "source": "Alexander Hamilton, Federalist No. 21, 1787"
+        "quote": "The natural cure for an ill-administration, in a popular or representative constitution, is a change of men.",
+        "source": "Alexander Hamilton, Federalist No. 21, 1787",
+        "id": "59b98b5d-22ec-4bf5-bcaf-611e5b527226"
     },
     {
-      "quote": "The proposed Constitution, so far from implying an abolition of the State governments, makes them constituent parts of the national sovereignty, by allowing them a direct representation in the Senate, and leaves in their possession certain exclusive and very important portions of sovereign power. This fully corresponds, in every rational import of the terms, with the idea of a federal government.",
-      "source": "Alexander Hamilton, Federalist No. 9, 1787"
+        "quote": "The proposed Constitution, so far from implying an abolition of the State governments, makes them constituent parts of the national sovereignty, by allowing them a direct representation in the Senate, and leaves in their possession certain exclusive and very important portions of sovereign power. This fully corresponds, in every rational import of the terms, with the idea of a federal government.",
+        "source": "Alexander Hamilton, Federalist No. 9, 1787",
+        "id": "82b8bf0b-c52f-48f3-93e2-badd3de36a52"
     },
     {
-      "quote": "The propriety of a law, in a constitutional light, must always be determined by the nature of the powers upon which it is founded.",
-      "source": "Alexander Hamilton, Federalist No. 33, January 3, 1788"
+        "quote": "The propriety of a law, in a constitutional light, must always be determined by the nature of the powers upon which it is founded.",
+        "source": "Alexander Hamilton, Federalist No. 33, January 3, 1788",
+        "id": "663f9c03-ddb9-4ca8-9242-dbf92fb5d421"
     },
     {
-      "quote": "The prosperity of commerce is now perceived and acknowledged by all enlightened statesmen to be the most useful as well as the most productive source of national wealth, and has accordingly become a primary object of its political cares.",
-      "source": "Alexander Hamilton, Federalist No. 12, November 27, 1787"
+        "quote": "The prosperity of commerce is now perceived and acknowledged by all enlightened statesmen to be the most useful as well as the most productive source of national wealth, and has accordingly become a primary object of its political cares.",
+        "source": "Alexander Hamilton, Federalist No. 12, November 27, 1787",
+        "id": "f6b46ccd-e3c2-4231-a55c-73b52f20e0f3"
     },
     {
-      "quote": "The regular distribution of power into distinct departments; the introduction of legislative balances and checks; the institution of courts composed of judges holding their offices during good behavior; the representation of the people in the legislature by deputies of their own election... They are means, and powerful means, by which the excellences of republican government may be retained and its imperfections lessened or avoided.",
-      "source": "Alexander Hamilton, Federalist No. 9, 1787"
+        "quote": "The regular distribution of power into distinct departments; the introduction of legislative balances and checks; the institution of courts composed of judges holding their offices during good behavior; the representation of the people in the legislature by deputies of their own election... They are means, and powerful means, by which the excellences of republican government may be retained and its imperfections lessened or avoided.",
+        "source": "Alexander Hamilton, Federalist No. 9, 1787",
+        "id": "e642eb8d-ff1c-4f3a-ab93-ddd1fdb81cb0"
     },
     {
-      "quote": "The republican principle demands that the deliberate sense of the community should govern the conduct of those to whom they entrust the management of their affairs; but it does not require an unqualified complaisance to every sudden breeze of passion or to every transient impulse which the people may receive from the arts of men, who flatter their prejudices to betray their interests.",
-      "source": "Alexander Hamilton, Federalist No. 71, March 18, 1788"
+        "quote": "The republican principle demands that the deliberate sense of the community should govern the conduct of those to whom they entrust the management of their affairs; but it does not require an unqualified complaisance to every sudden breeze of passion or to every transient impulse which the people may receive from the arts of men, who flatter their prejudices to betray their interests.",
+        "source": "Alexander Hamilton, Federalist No. 71, March 18, 1788",
+        "id": "ebcb60fc-bf32-4eb2-ada7-db5b8ff9bd81"
     },
     {
-      "quote": "The rights of neutrality will only be respected when they are defended by an adequate power. A nation, despicable by its weakness, forfeits even the privilege of being neutral.",
-      "source": "Alexander Hamilton, Federalist No. 11, 1787"
+        "quote": "The rights of neutrality will only be respected when they are defended by an adequate power. A nation, despicable by its weakness, forfeits even the privilege of being neutral.",
+        "source": "Alexander Hamilton, Federalist No. 11, 1787",
+        "id": "3ea461d4-44c0-49f3-a065-e4b35701ca94"
     },
     {
-      "quote": "The sacred rights of mankind are not to be rummaged for, among old parchments, or musty records. They are written, as with a sun beam, in the whole volume of human nature, by the hand of the divinity itself; and can never be erased or obscured by mortal power.",
-      "source": "Alexander Hamilton, The Farmer Refuted, February 23, 1775"
+        "quote": "The sacred rights of mankind are not to be rummaged for, among old parchments, or musty records. They are written, as with a sun beam, in the whole volume of human nature, by the hand of the divinity itself; and can never be erased or obscured by mortal power.",
+        "source": "Alexander Hamilton, The Farmer Refuted, February 23, 1775",
+        "id": "fd38d198-676b-4913-9d49-cb8e476d0377"
     },
     {
-      "quote": "The standard of good behavior for the continuance in office of the judicial magistracy is certainly one of the most valuable of the modern improvements in the practice of government.",
-      "source": "Alexander Hamilton, Federalist No. 78, 1788"
+        "quote": "The standard of good behavior for the continuance in office of the judicial magistracy is certainly one of the most valuable of the modern improvements in the practice of government.",
+        "source": "Alexander Hamilton, Federalist No. 78, 1788",
+        "id": "83ace571-e519-4a7f-9f7b-c308ff13f6d7"
     },
     {
-      "quote": "The State governments possess inherent advantages, which will ever give them an influence and ascendancy over the National Government, and will for ever preclude the possibility of federal encroachments. That their liberties, indeed, can be subverted by the federal head, is repugnant to every rule of political calculation.",
-      "source": "Alexander Hamilton, speech to the New York Ratifying Convention, June 17, 1788"
+        "quote": "The State governments possess inherent advantages, which will ever give them an influence and ascendancy over the National Government, and will for ever preclude the possibility of federal encroachments. That their liberties, indeed, can be subverted by the federal head, is repugnant to every rule of political calculation.",
+        "source": "Alexander Hamilton, speech to the New York Ratifying Convention, June 17, 1788",
+        "id": "fb0a755e-b54d-43dc-bd46-e950a5cded40"
     },
     {
-      "quote": "The tendency of a national bank is to increase public and private credit. The former gives power to the state, for the protection of its rights and interests: and the latter facilitates and extends the operations of commerce among individuals. Industry is increased, commodities are multiplied, agriculture and manufacturers flourish: and herein consists the true wealth and prosperity of a state.",
-      "source": "Alexander Hamilton, Report on Manufactures, 1790"
+        "quote": "The tendency of a national bank is to increase public and private credit. The former gives power to the state, for the protection of its rights and interests: and the latter facilitates and extends the operations of commerce among individuals. Industry is increased, commodities are multiplied, agriculture and manufacturers flourish: and herein consists the true wealth and prosperity of a state.",
+        "source": "Alexander Hamilton, Report on Manufactures, 1790",
+        "id": "31dd8475-c0ef-41a7-9b5b-ac6ab78eb609"
     },
     {
-      "quote": "The true principle of government is this � make the system compleat in its structure; give a perfect proportion and balance to its parts; and the powers you give it will never affect your security.",
-      "source": "Alexander Hamilton, Remarks in the New York Ratifying Convention, June, 1788"
+        "quote": "The true principle of government is this \ufffd make the system compleat in its structure; give a perfect proportion and balance to its parts; and the powers you give it will never affect your security.",
+        "source": "Alexander Hamilton, Remarks in the New York Ratifying Convention, June, 1788",
+        "id": "46601b1a-2de9-4886-ad0c-ffccb4e3dcdc"
     },
     {
-      "quote": "The truth is, after all the declamations we have heard, that the Constitution is itself, in every rational sense, and to every useful purpose, A BILL OF RIGHTS.",
-      "source": "Alexander Hamilton, Federalist No. 84, 1788"
+        "quote": "The truth is, after all the declamations we have heard, that the Constitution is itself, in every rational sense, and to every useful purpose, A BILL OF RIGHTS.",
+        "source": "Alexander Hamilton, Federalist No. 84, 1788",
+        "id": "d152be6e-ff08-4002-829e-0cd9c31d673c"
     },
     {
-      "quote": "There are certain social principles in human nature, from which we may draw the most solid conclusions with respect to the conduct of individuals and of communities. We love our families more than our neighbors; we love our neighbors more than our countrymen in general. The human affections, like solar heat, lose their intensity as they depart from the centre... On these principles, the attachment of the individual will be first and for ever secured by the State governments. They will be a mutual protection and support.",
-      "source": "Alexander Hamilton, speech at the New York Ratifying Convention, June, 1788"
+        "quote": "There are certain social principles in human nature, from which we may draw the most solid conclusions with respect to the conduct of individuals and of communities. We love our families more than our neighbors; we love our neighbors more than our countrymen in general. The human affections, like solar heat, lose their intensity as they depart from the centre... On these principles, the attachment of the individual will be first and for ever secured by the State governments. They will be a mutual protection and support.",
+        "source": "Alexander Hamilton, speech at the New York Ratifying Convention, June, 1788",
+        "id": "0e68b90f-3302-4aa4-a899-c7f7353a6f33"
     },
     {
-      "quote": "There is a certain enthusiasm in liberty, that makes human nature rise above itself, in acts of bravery and heroism.",
-      "source": "Alexander Hamilton, The Farmer Refuted, February 23, 1775"
+        "quote": "There is a certain enthusiasm in liberty, that makes human nature rise above itself, in acts of bravery and heroism.",
+        "source": "Alexander Hamilton, The Farmer Refuted, February 23, 1775",
+        "id": "3b70beaf-3943-4647-9478-2556dd761f69"
     },
     {
-      "quote": "There is no part of the administration of government that requires extensive information and a thorough knowledge of the principles of political economy, so much as the business of taxation. The man who understands those principles best will be least likely to resort to oppressive expedients, or sacrifice any particular class of citizens to the procurement of revenue. It might be demonstrated that the most productive system of finance will always be the least burdensome.",
-      "source": "Alexander Hamilton, Federalist No. 35, 1788"
+        "quote": "There is no part of the administration of government that requires extensive information and a thorough knowledge of the principles of political economy, so much as the business of taxation. The man who understands those principles best will be least likely to resort to oppressive expedients, or sacrifice any particular class of citizens to the procurement of revenue. It might be demonstrated that the most productive system of finance will always be the least burdensome.",
+        "source": "Alexander Hamilton, Federalist No. 35, 1788",
+        "id": "679f0a31-1f90-4ef5-ad45-98d4cc87d5dd"
     },
     {
-      "quote": "There is nothing absurd or impracticable in the idea of a league or alliance between independent nations for certain defined purposes precisely stated in a treaty regulating all the details of time, place, circumstance, and quantity; leaving nothing to future discretion; and depending for its execution on the good faith of the parties.",
-      "source": "Alexander Hamilton, Federalist No. 15, 1787"
+        "quote": "There is nothing absurd or impracticable in the idea of a league or alliance between independent nations for certain defined purposes precisely stated in a treaty regulating all the details of time, place, circumstance, and quantity; leaving nothing to future discretion; and depending for its execution on the good faith of the parties.",
+        "source": "Alexander Hamilton, Federalist No. 15, 1787",
+        "id": "7a07bf82-2917-4ebb-885b-083d90df17f5"
     },
     {
-      "quote": "There is something so far-fetched and so extravagant in the idea of danger to liberty from the militia that one is at a loss whether to treat it with gravity or with raillery; whether to consider it as a mere trial of skill, like the paradoxes of rhetoricians; as a disingenuous artifice to instill prejudices at any price; or as the serious.",
-      "source": "Alexander Hamilton, Federalist No. 29, January 10, 1788"
+        "quote": "There is something so far-fetched and so extravagant in the idea of danger to liberty from the militia that one is at a loss whether to treat it with gravity or with raillery; whether to consider it as a mere trial of skill, like the paradoxes of rhetoricians; as a disingenuous artifice to instill prejudices at any price; or as the serious.",
+        "source": "Alexander Hamilton, Federalist No. 29, January 10, 1788",
+        "id": "55c8c463-a3d8-4ab0-8bd8-1fc60916a04a"
     },
     {
-      "quote": "This balance between the National and State governments ought to be dwelt on with peculiar attention, as it is of the utmost importance. It forms a double security to the people. If one encroaches on their rights they will find a powerful protection in the other. Indeed, they will both be prevented from overpassing their constitutional limits by a certain rivalship, which will ever subsist between them.",
-      "source": "Alexander Hamilton, speech to the New York Ratifying Convention, June 17, 1788"
+        "quote": "This balance between the National and State governments ought to be dwelt on with peculiar attention, as it is of the utmost importance. It forms a double security to the people. If one encroaches on their rights they will find a powerful protection in the other. Indeed, they will both be prevented from overpassing their constitutional limits by a certain rivalship, which will ever subsist between them.",
+        "source": "Alexander Hamilton, speech to the New York Ratifying Convention, June 17, 1788",
+        "id": "7eb0609b-5e1a-43ed-933a-1a4cd14e3e1f"
     },
     {
-      "quote": "This process of election affords a moral certainty that the office of President will seldom fall to the lot of any many who is not in an eminent degree endowed with the requisite qualifications.",
-      "source": "Alexander Hamilton, Federalist No. 68, March 14, 1788"
+        "quote": "This process of election affords a moral certainty that the office of President will seldom fall to the lot of any many who is not in an eminent degree endowed with the requisite qualifications.",
+        "source": "Alexander Hamilton, Federalist No. 68, March 14, 1788",
+        "id": "7a74a173-8816-463f-98ac-6b8538a72ec6"
     },
     {
-      "quote": "To cherish and stimulate the activity of the human mind, by multiplying the objects of enterprise, is not among the least considerable of the expedients, by which the wealth of a nation may be promoted.",
-      "source": "Alexander Hamilton, Report on Manufactures, December 1791"
+        "quote": "To cherish and stimulate the activity of the human mind, by multiplying the objects of enterprise, is not among the least considerable of the expedients, by which the wealth of a nation may be promoted.",
+        "source": "Alexander Hamilton, Report on Manufactures, December 1791",
+        "id": "62e70773-7857-4fff-81cd-76e748d6163f"
     },
     {
-      "quote": "To grant that there is a supreme intelligence who rules the world and has established laws to regulate the actions of his creatures; and still to assert that man, in a state of nature, may be considered as perfectly free from all restraints of law and government, appears to a common understanding altogether irreconcilable. Good and wise men, in all ages, have embraced a very dissimilar theory. They have supposed that the deity, from the relations we stand in to himself and to each other, has constituted an eternal and immutable law, which is indispensably obligatory upon all mankind, prior to any human institution whatever. This is what is called the law of nature....Upon this law depend the natural rights of mankind.",
-      "source": "Alexander Hamilton, The Farmer Refuted, February 23, 1775"
+        "quote": "To grant that there is a supreme intelligence who rules the world and has established laws to regulate the actions of his creatures; and still to assert that man, in a state of nature, may be considered as perfectly free from all restraints of law and government, appears to a common understanding altogether irreconcilable. Good and wise men, in all ages, have embraced a very dissimilar theory. They have supposed that the deity, from the relations we stand in to himself and to each other, has constituted an eternal and immutable law, which is indispensably obligatory upon all mankind, prior to any human institution whatever. This is what is called the law of nature....Upon this law depend the natural rights of mankind.",
+        "source": "Alexander Hamilton, The Farmer Refuted, February 23, 1775",
+        "id": "5a7fa9cb-5983-44fa-ab7a-6c51263e2d65"
     },
     {
-      "quote": "To judge from the history of mankind, we shall be compelled to conclude that the fiery and destructive passions of war reign in the human breast with much more powerful sway than the mild and beneficent sentiments of peace; and that to model our political systems upon speculations of lasting tranquility would be to calculate on the weaker springs of human character.",
-      "source": "Alexander Hamilton, Federalist No. 34, January 4, 1788"
+        "quote": "To judge from the history of mankind, we shall be compelled to conclude that the fiery and destructive passions of war reign in the human breast with much more powerful sway than the mild and beneficent sentiments of peace; and that to model our political systems upon speculations of lasting tranquility would be to calculate on the weaker springs of human character.",
+        "source": "Alexander Hamilton, Federalist No. 34, January 4, 1788",
+        "id": "8924b8df-1fa5-4ab6-9d33-6f6caf3bcaa9"
     },
     {
-      "quote": "To model our political system upon speculations of lasting tranquility, is to calculate on the weaker springs of the human character.",
-      "source": "Alexander Hamilton, Federalist No. 34, January 4, 1788"
+        "quote": "To model our political system upon speculations of lasting tranquility, is to calculate on the weaker springs of the human character.",
+        "source": "Alexander Hamilton, Federalist No. 34, January 4, 1788",
+        "id": "8b5e4db9-3f05-4c8f-bf86-beb104804724"
     },
     {
-      "quote": "War, like most other things, is a science to be acquired and perfected by diligence, by perseverance, by time, and by practice.",
-      "source": "Alexander Hamilton, Federalist No. 25, December 21, 1787"
+        "quote": "War, like most other things, is a science to be acquired and perfected by diligence, by perseverance, by time, and by practice.",
+        "source": "Alexander Hamilton, Federalist No. 25, December 21, 1787",
+        "id": "9831fc64-3e00-48a0-9eb3-1b651db6ce3a"
     },
     {
-      "quote": "Were the pictures which have been drawn by the political jealousy of some among us faithful likenesses of the human character, the inference would be, that there is not sufficient virtue among men for self-government; and that nothing less than the chains of despotism can restrain them from destroying and devouring one another.",
-      "source": "Alexander Hamilton and Alexander Hamilton, Federalist No. 55, February 15, 1788"
+        "quote": "Were the pictures which have been drawn by the political jealousy of some among us faithful likenesses of the human character, the inference would be, that there is not sufficient virtue among men for self-government; and that nothing less than the chains of despotism can restrain them from destroying and devouring one another.",
+        "source": "Alexander Hamilton and Alexander Hamilton, Federalist No. 55, February 15, 1788",
+        "id": "8b168fa4-c766-45f1-8541-23d0040ff43c"
     },
     {
-      "quote": "When occasions present themselves, in which the interests of the people are at variance with their inclinations, it is the duty of the persons whom they have appointed to be the guardians of those interests, to withstand the temporary delusion, in order to give them time and opportunity for more cool and sedate reflection.",
-      "source": "Alexander Hamilton, Federalist No. 71"
+        "quote": "When occasions present themselves, in which the interests of the people are at variance with their inclinations, it is the duty of the persons whom they have appointed to be the guardians of those interests, to withstand the temporary delusion, in order to give them time and opportunity for more cool and sedate reflection.",
+        "source": "Alexander Hamilton, Federalist No. 71",
+        "id": "2de32632-edf2-47ba-b39b-039058e5228a"
     },
     {
-      "quote": "When you assemble from your several counties in the Legislature, were every member to be guided only by the apparent interest of his county, government would be impracticable. There must be a perpetual accommodation and sacrifice of local advantage to general expediency.",
-      "source": "Alexander Hamilton, speech at the New York Ratifying Convention, June, 1788"
+        "quote": "When you assemble from your several counties in the Legislature, were every member to be guided only by the apparent interest of his county, government would be impracticable. There must be a perpetual accommodation and sacrifice of local advantage to general expediency.",
+        "source": "Alexander Hamilton, speech at the New York Ratifying Convention, June, 1788",
+        "id": "647535c8-cfbb-456e-adc6-8a64b8a00372"
     },
     {
-      "quote": "Wherever indeed a right of property is infringed for the general good, if the nature of the case admits of compensation, it ought to be made; but if compensation be impracticable, that impracticability ought to be an obstacle to a clearly essential reform.",
-      "source": "Alexander Hamilton, Vindication of the Funding System, 1792"
+        "quote": "Wherever indeed a right of property is infringed for the general good, if the nature of the case admits of compensation, it ought to be made; but if compensation be impracticable, that impracticability ought to be an obstacle to a clearly essential reform.",
+        "source": "Alexander Hamilton, Vindication of the Funding System, 1792",
+        "id": "b4996ad6-86b7-4b80-8843-616f7b65c6d1"
     },
     {
-      "quote": "While the constitution continues to be read, and its principles known, the states, must, by every rational man, be considered as essential component parts of the union; and therefore the idea of sacrificing the former to the latter is totally inadmissible.",
-      "source": "Alexander Hamilton, speech to the New York Ratifying Convention, June 24, 1788"
+        "quote": "While the constitution continues to be read, and its principles known, the states, must, by every rational man, be considered as essential component parts of the union; and therefore the idea of sacrificing the former to the latter is totally inadmissible.",
+        "source": "Alexander Hamilton, speech to the New York Ratifying Convention, June 24, 1788",
+        "id": "051ac6e6-5a99-4361-a27c-02f0c386d7e2"
     },
     {
-      "quote": "Whoever attentively considers the different departments of power must perceive, that, in a government in which they are separated from each other, the judiciary, from the nature of its functions, will always be the least dangerous to the political rights of the Constitution; because it will be least in a capacity to annoy or injure them.",
-      "source": "Alexander Hamilton, Federalist No. 78, 1788"
+        "quote": "Whoever attentively considers the different departments of power must perceive, that, in a government in which they are separated from each other, the judiciary, from the nature of its functions, will always be the least dangerous to the political rights of the Constitution; because it will be least in a capacity to annoy or injure them.",
+        "source": "Alexander Hamilton, Federalist No. 78, 1788",
+        "id": "04d60193-0588-4518-8cea-e50b99d07e70"
     },
     {
-      "quote": "Why has government been instituted at all? Because the passions of men will not conform to the dictates of reason and justice without constraint.",
-      "source": "Alexander Hamilton, Federalist No. 15"
+        "quote": "Why has government been instituted at all? Because the passions of men will not conform to the dictates of reason and justice without constraint.",
+        "source": "Alexander Hamilton, Federalist No. 15",
+        "id": "7b1d95c3-69e8-442c-9ff4-4abd3c2671e5"
     },
     {
-      "quote": "Wise politicians will be cautious about fettering the government with restrictions that cannot be observed, because they know that every break of the fundamental laws, though dictated by necessity, impairs that sacred reverence which out to be maintained in the breast of rulers towards the constitution of a country.",
-      "source": "Alexander Hamilton, Federalist No. 25, December 21, 1787"
+        "quote": "Wise politicians will be cautious about fettering the government with restrictions that cannot be observed, because they know that every break of the fundamental laws, though dictated by necessity, impairs that sacred reverence which out to be maintained in the breast of rulers towards the constitution of a country.",
+        "source": "Alexander Hamilton, Federalist No. 25, December 21, 1787",
+        "id": "c8eedadd-ce0c-476b-acf6-25ad27efd15f"
     },
     {
-      "quote": "[H]owever weak our country may be, I hope we shall never sacrifice our liberties.",
-      "source": "Alexander Hamilton, Report on a National Bank, December 13, 1790"
+        "quote": "[H]owever weak our country may be, I hope we shall never sacrifice our liberties.",
+        "source": "Alexander Hamilton, Report on a National Bank, December 13, 1790",
+        "id": "450f376d-5a22-4e52-9d05-439828496d49"
     },
     {
-      "quote": "[The Judicial Branch] may truly be said to have neither FORCE nor WILL, but merely judgment; and must ultimately depend upon the aid of the executive arm even for the efficacy of its judgments.",
-      "source": "Alexander Hamilton, Federalist No. 78, 1788"
+        "quote": "[The Judicial Branch] may truly be said to have neither FORCE nor WILL, but merely judgment; and must ultimately depend upon the aid of the executive arm even for the efficacy of its judgments.",
+        "source": "Alexander Hamilton, Federalist No. 78, 1788",
+        "id": "ee1fc1af-5775-4077-9790-7db1ad902a6a"
     },
     {
-      "quote": "[T]he Constitution ought to be the standard of construction for the laws, and that wherever there is an evident opposition, the laws ought to give place to the Constitution. But this doctrine is not deducible from any circumstance peculiar to the plan of convention, but from the general theory of a limited Constitution.",
-      "source": "Alexander Hamilton, Alexander Hamilton, Federalist No. 81, 1788"
+        "quote": "[T]he Constitution ought to be the standard of construction for the laws, and that wherever there is an evident opposition, the laws ought to give place to the Constitution. But this doctrine is not deducible from any circumstance peculiar to the plan of convention, but from the general theory of a limited Constitution.",
+        "source": "Alexander Hamilton, Alexander Hamilton, Federalist No. 81, 1788",
+        "id": "96f0a91b-b663-4f96-a43b-b00656a6a668"
     },
     {
-      "quote": "[T]he present Constitution is the standard to which we are to cling. Under its banners, bona fide must we combat our political foes � rejecting all changes but through the channel itself provides for amendments.",
-      "source": "Alexander Hamilton, letter to James Bayard, April, 1802"
+        "quote": "[T]he present Constitution is the standard to which we are to cling. Under its banners, bona fide must we combat our political foes \ufffd rejecting all changes but through the channel itself provides for amendments.",
+        "source": "Alexander Hamilton, letter to James Bayard, April, 1802",
+        "id": "fc89730c-4919-40bb-b1af-1be9369abbbf"
     },
     {
-      "quote": "[T]here is not a syllable in the plan under consideration which directly empowers the national courts to construe the laws according to the spirit of the Constitution.",
-      "source": "Alexander Hamilton, Federalist No. 81, 1788"
+        "quote": "[T]here is not a syllable in the plan under consideration which directly empowers the national courts to construe the laws according to the spirit of the Constitution.",
+        "source": "Alexander Hamilton, Federalist No. 81, 1788",
+        "id": "976d3c1c-fcd3-4cf8-9e76-f36157f8ff17"
     }
-  ]
+]
