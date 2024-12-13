@@ -1,11 +1,13 @@
 [
     {
+        "id": "AlexanderHamilton",
         "name": "Alexander Hamilton",
         "date": "January 11, 1755 - July 12, 1804",
         "quotes": "AlexanderHamilton.json",
         "image" "images/AlexanderHamilton.png"
     },
     {
+        "id": "JohnAdams",
         "name": "John Adams",
         "date": "October 30, 1735 - July 4, 1826",
         "quotes": "JohnAdams.json",
