@@ -4,10 +4,10 @@
         "date": "January 11, 1755 - July 12, 1804",
         "quotes": "AlexanderHamilton.json",
         "image": "images/AlexanderHamilton.png",
-        "id": "0c11545c-7945-42de-96f2-948e503f5fcd"
+        "id": "3de6d15d-f8d0-40c9-a08d-4cc980f7de9f"
     },
     {
-        "id": "ad53876e-54c1-4f05-9388-02c64ab03c51",
+        "id": "ef630c73-081e-40a7-aaa3-e2701c3af385",
         "name": "John Adams",
         "date": "October 30, 1735 - July 4, 1826",
         "quotes": "JohnAdams.json",
@@ -18,6 +18,48 @@
         "date": "April 13, 1743 - July 4, 1826",
         "quotes": "ThomasJefferson.json",
         "image": "images/ThomasJefferson.png",
-        "id": "c92801b2-320a-4143-a085-f3ce1cd5413a"
+        "id": "73685f3e-25b0-45a8-a482-bcee062325a1"
+    },
+    {
+        "image": "images/SamualAdams.png",
+        "name": "Samual Adams",
+        "quotes": "ThomasJefferson.json",
+        "date": "September 27, 1722 - October 2, 1803",
+        "id": "a5f57bfb-38cb-4bc0-8609-ddde87fce7ea"
+    },
+    {
+        "image": "images/BenjaminFranklin.png",
+        "name": "Benjamin Franklin",
+        "quotes": "ThomasJefferson.json",
+        "date": "January 17, 1706 - April 17, 1790",
+        "id": "2979f042-791c-4a3a-881e-54534ba87fd5"
+    },
+    {
+        "image": "images/PatrickHenry.png",
+        "name": "Patrick Henry",
+        "quotes": "ThomasJefferson.json",
+        "date": "May 29, 1736 - June 6, 1799",
+        "id": "8f067a55-eac6-41d1-83ac-3b9267150426"
+    },
+    {
+        "image": "images/JamesMadison.png",
+        "name": "James Madison",
+        "quotes": "ThomasJefferson.json",
+        "date": "March 16, 1751 - June 28, 1836",
+        "id": "f490430d-bc1a-4e94-9598-8aa66e9e8582"
+    },
+    {
+        "image": "images/ThomasPaine.png",
+        "name": "Thomas Paine",
+        "quotes": "ThomasJefferson.json",
+        "date": "February 9, 1737 - June 8, 1809",
+        "id": "604f3e17-6149-4b3d-91d5-9da6529f484c"
+    },
+    {
+        "image": "images/GeorgeWashington.png",
+        "name": "GeorgeWashington",
+        "quotes": "ThomasJefferson.json",
+        "date": "February 22, 1732 - December 14, 1799",
+        "id": "9e8d03cf-03f6-45d4-a22f-ed31033c4180"
     }
 ]
