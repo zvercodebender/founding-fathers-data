@@ -4,13 +4,20 @@
         "date": "January 11, 1755 - July 12, 1804",
         "quotes": "AlexanderHamilton.json",
         "image": "images/AlexanderHamilton.png",
-        "id": "0f58e915-19c8-41e5-8b40-0b8bf3c3f364"
+        "id": "0c11545c-7945-42de-96f2-948e503f5fcd"
     },
     {
-        "id": "30e1329d-8ba1-4d13-8e7b-8459e5d69fce",
+        "id": "ad53876e-54c1-4f05-9388-02c64ab03c51",
         "name": "John Adams",
         "date": "October 30, 1735 - July 4, 1826",
         "quotes": "JohnAdams.json",
         "image": "images/JohnAdams.png"
+    },
+    {
+        "name": "Thomas Jeferson",
+        "date": "April 13, 1743 - July 4, 1826",
+        "quotes": "ThomasJefferson.json",
+        "image": "images/ThomasJefferson.png",
+        "id": "c92801b2-320a-4143-a085-f3ce1cd5413a"
     }
 ]
