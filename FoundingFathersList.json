@@ -30,14 +30,14 @@
     {
         "image": "images/BenjaminFranklin.png",
         "name": "Benjamin Franklin",
-        "quotes": "ThomasJefferson.json",
+        "quotes": "BenjaminFranklin.json",
         "date": "January 17, 1706 - April 17, 1790",
         "id": "2979f042-791c-4a3a-881e-54534ba87fd5"
     },
     {
         "image": "images/PatrickHenry.png",
         "name": "Patrick Henry",
-        "quotes": "ThomasJefferson.json",
+        "quotes": "PatrickHenry.json",
         "date": "May 29, 1736 - June 6, 1799",
         "id": "8f067a55-eac6-41d1-83ac-3b9267150426"
     },
