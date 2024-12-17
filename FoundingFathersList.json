@@ -57,8 +57,8 @@
     },
     {
         "image": "images/GeorgeWashington.png",
-        "name": "GeorgeWashington",
-        "quotes": "ThomasJefferson.json",
+        "name": "George Washington",
+        "quotes": "GeorgeWashington.json",
         "date": "February 22, 1732 - December 14, 1799",
         "id": "9e8d03cf-03f6-45d4-a22f-ed31033c4180"
     }
